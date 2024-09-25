@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vizalaur.github.io/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/app/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/assets/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/css/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/data/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/includes/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/item/sitemap.vizalaur.gz
+Sitemap: https://vizalaur.github.io/src/sitemap.vizalaur.gz
